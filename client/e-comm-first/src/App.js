@@ -7,6 +7,7 @@ import Items from './components/Items';
 function App() {
   return (
     <div className="App">
+      <br/>
       <h1>Adidas</h1>
       <Header />
       <Items />

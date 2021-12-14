@@ -48,7 +48,7 @@ function AdressForm() {
       
     </div>
   </div>
-  <button type="submit" class="btn btn-primary">Pay and Checkput</button>
+  <button type="submit" class="btn btn-danger">Pay and Checkout</button>
 </form>
         </div>
     )

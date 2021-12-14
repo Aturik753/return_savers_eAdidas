@@ -20,7 +20,7 @@ function Header() {
             <div class="row align-items-center">
                 <div class="col-xl-2 col-lg-3 col-md-12">
                     <a href="#" class="brand-wrap">
-                       Project 2 DEMO WEBSITE
+                       Project 2 Adidas DEMO WEBSITE
                     </a> 
                 </div>
                 <div class="col-xl-6 col-lg-5 col-md-6">
@@ -34,7 +34,7 @@ function Header() {
                             <input type="text" class="form-control" placeholder="Search" />
                             
                             <div class="input-group-append">
-                              <button class="btn btn-primary" type="submit">
+                              <button class="btn btn-danger " type="submit">
                                 <i class="fa fa-search"></i> Search
                               </button>
                             </div>
@@ -82,7 +82,7 @@ function Header() {
                                 <div class="icon-area">
                                     <i class="fa fa-shopping-cart"></i>
                                 </div>
-                                <button onClick={pay} type="button" class="btn btn-info">Checkout</button>
+                                <button onClick={pay} type="button" class="btn btn-danger">Checkout</button>
                             </a>
                         </div>
                     </div> 
